@@ -7,3 +7,5 @@ def parent_child():
     else:
         print("Child process and id is : ", os.getpid()) 
 parent_child()
+
+
